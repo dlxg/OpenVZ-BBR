@@ -21,7 +21,7 @@ VPS必须支持并开启TUN/TAP
 
 # 一键运行脚本
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/uml/master/bbr/uml.sh && bash uml.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/dlxg/uml/master/bbr/uml.sh && bash uml.sh
 ```
 装完ssr和bbr就已经运行了，如果你不想改密码和端口的话就可以直接用。。默认配置在下面。。
 # UML相关说明
